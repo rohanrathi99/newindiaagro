@@ -71,10 +71,7 @@ a:focus {
     transition: .3s;
 }
 
-
-/**********************************/
-/********** Top Bar CSS ***********/
-/**********************************/
+/* Top Bar CSS */
 .top-bar {
     position: relative;
     height: 90px;
@@ -90,9 +87,9 @@ a:focus {
 .top-bar .logo h1 {
     margin: 0;
     color: #030f27;
-    font-size: 60px;
+    font-size: 30px;
     line-height: 60px;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .top-bar .logo img {
@@ -150,9 +147,7 @@ a:focus {
 }
 
 
-/**********************************/
-/*********** Nav Bar CSS **********/
-/**********************************/
+/* Nav Bar CSS */
 .nav-bar {
     position: relative;
     background: #fdbe33;
@@ -253,9 +248,7 @@ a:focus {
 }
 
 
-/*******************************/
-/******** Carousel CSS *********/
-/*******************************/
+/* Carousel CSS */
 .carousel {
     position: relative;
     width: 100%;
@@ -377,9 +370,7 @@ a:focus {
 }
 
 
-/*******************************/
-/******* Page Header CSS *******/
-/*******************************/
+/* Page Header CSS */
 .page-header {
     position: relative;
     margin-bottom: 45px;
@@ -462,9 +453,7 @@ a:focus {
 }
 
 
-/*******************************/
-/******* Section Header ********/
-/*******************************/
+/* Section Header */
 .section-header {
     position: relative;
     width: 100%;
@@ -492,9 +481,7 @@ a:focus {
 }
 
 
-/*******************************/
-/********* Feature CSS *********/
-/*******************************/
+/* Feature CSS */
 .feature {
     position: relative;
     margin-bottom: 45px;
@@ -587,9 +574,7 @@ a:focus {
 }
 
 
-/*******************************/
-/********** About CSS **********/
-/*******************************/
+/* About CSS */
 .about {
     position: relative;
     width: 100%;
@@ -641,9 +626,7 @@ a:focus {
 }
 
 
-/*******************************/
-/********** Fact CSS ***********/
-/*******************************/
+/* Fact CSS */
 .fact {
     position: relative;
     width: 100%;
@@ -710,9 +693,7 @@ a:focus {
 }
 
 
-/*******************************/
-/********* Service CSS *********/
-/*******************************/
+/* Service CSS */
 .service {
     position: relative;
     width: 100%;
@@ -803,9 +784,7 @@ a:focus {
 }
 
 
-/*******************************/
-/********** Video CSS **********/
-/*******************************/
+/* Video CSS */
 .video {
     position: relative;
     margin: 45px 0;
@@ -924,9 +903,7 @@ a:focus {
 }
 
 
-/*******************************/
-/*********** Team CSS **********/
-/*******************************/
+/* Team CSS */
 .team {
     position: relative;
     width: 100%;
@@ -1023,9 +1000,7 @@ a:focus {
 }
 
 
-/*******************************/
-/*********** FAQs CSS **********/
-/*******************************/
+/* FAQs CSS */
 .faqs {
     position: relative;
     width: 100%;
@@ -1129,9 +1104,7 @@ a:focus {
 }
 
 
-/*******************************/
-/******* Testimonial CSS *******/
-/*******************************/
+/* Testimonial CSS */
 .testimonial {
     position: relative;
     margin: 45px 0;
@@ -1221,9 +1194,7 @@ a:focus {
 }
 
 
-/*******************************/
-/*********** Blog CSS **********/
-/*******************************/
+/* Blog CSS */
 .blog {
     position: relative;
     width: 100%;
@@ -1347,9 +1318,7 @@ a:focus {
 }
 
 
-/*******************************/
-/******* Single Post CSS *******/
-/*******************************/
+/* Single Post CSS */
 .single {
     position: relative;
     padding: 45px 0;
@@ -1607,9 +1576,7 @@ a:focus {
 }
 
 
-/**********************************/
-/*********** Sidebar CSS **********/
-/**********************************/
+/* Sidebar CSS */
 .sidebar {
     position: relative;
     width: 100%;
@@ -1778,9 +1745,7 @@ a:focus {
 }
 
 
-/*******************************/
-/******** Portfolio CSS ********/
-/*******************************/
+/* Portfolio CSS */
 .portfolio {
     position: relative;
     padding: 45px 0;
@@ -1921,9 +1886,7 @@ a:focus {
 }
 
 
-/*******************************/
-/********* Contact CSS *********/
-/*******************************/
+/* Contact CSS */
 .contact {
     position: relative;
     width: 100%;
@@ -2051,9 +2014,7 @@ a:focus {
 }
 
 
-/*******************************/
-/********* Footer CSS **********/
-/*******************************/
+/* Footer CSS */
 .footer {
     position: relative;
     margin-top: -45px;
@@ -2205,8 +2166,9 @@ a:focus {
 
 .footer .copyright {
     padding: 30px 15px;
-    border-top: 1px solid rgba(256, 256, 256, .1);
-    border-bottom: 1px solid rgba(256, 256, 256, .1);
+    border-top: 1px solid rgba(256, 256, 256, .4);
+    border-bottom: 1px solid rgba(256, 256, 256, .4);
+
 }
 
 .footer .copyright p {
