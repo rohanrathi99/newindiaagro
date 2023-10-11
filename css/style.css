@@ -37,7 +37,7 @@ a:focus {
 .wrapper {
     position: relative;
     width: 100%;
-    max-width: 1366px;
+    /* max-width: 1366px; */
     margin: 0 auto;
     background: #ffffff;
 }
@@ -167,7 +167,7 @@ a:focus {
     position: fixed;
     top: 0;
     width: 100%;
-    max-width: 1366px;
+    /* max-width: 1366px; */
     box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
     z-index: 999;
 }
@@ -2056,7 +2056,7 @@ a:focus {
 /*******************************/
 .footer {
     position: relative;
-    margin-top: 45px;
+    margin-top: -45px;
     padding-top: 90px;
     background: #030f27;
     color: #ffffff;
@@ -2205,6 +2205,8 @@ a:focus {
 
 .footer .copyright {
     padding: 30px 15px;
+    border-top: 1px solid rgba(256, 256, 256, .1);
+    border-bottom: 1px solid rgba(256, 256, 256, .1);
 }
 
 .footer .copyright p {
